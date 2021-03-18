@@ -1,0 +1,7 @@
+{
+  "name": "mariarose_act2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
